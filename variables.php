@@ -1,7 +1,7 @@
 <?php
 
-	$company_name = "Guitar Magazine, LLC.";
-	$tagline = "Teaching guitar since 2001";
+	$company_name = "MPL's Finest";
+	$tagline = "Old, but not obsolete!";
 
 
 

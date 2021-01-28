@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>MPL's Finest - Old, but not obsolete!</title>
   </head>
   <body>
   	<?php include("navbar.php"); ?>
@@ -21,7 +21,7 @@
 		<?php
 
 			// comments
-			echo "Hello world!</br></br></br></br>";
+			echo "MPL's Finest - Old, but not obsolete!</br></br></br></br>";
 			$favourite_number = 41;
 			
 			// Math operators
@@ -204,27 +204,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 			/* just testing
 
 			// go through array with FOR Loop
@@ -252,7 +231,7 @@
 
 
 	<div class="container">
-		stuff
+		Some random stuff....
 	</div>
 
     <!-- Optional JavaScript; choose one of the two! -->
